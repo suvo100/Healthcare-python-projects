@@ -5,7 +5,7 @@ This project calculates **Body Mass Index (BMI)** from synthetic patient data (w
 It then categorizes patients into **Underweight, Normal, Overweight, and Obese** based on WHO guidelines.
 
 ## 📂 Files
-- `data/patients_data.csv` → Synthetic dataset generated with Faker.
+- `patients_data.csv` → Synthetic dataset generated with Faker.
 - `BMI_Calculator.ipynb` → Colab/Jupyter notebook version.
 - `src/bmi_analysis.py` → Python script version.
 - `requirements.txt` → Dependencies.
